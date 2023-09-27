@@ -43,6 +43,6 @@ Obrigado por conferir meu repositório e por todo o conhecimento adquirido com a
 Você pode clonar este repositório para sua máquina local e explorar os projetos e o código desenvolvido ao longo do curso. Sinta-se à vontade para estudar, fazer melhorias ou utilizar o código como referência para seus próprios projetos.
 
 ```bash
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Dev-RichardZamoner/curso-css.git)
+git clone [[https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Dev-RichardZamoner/curso-css.git)]
 
 

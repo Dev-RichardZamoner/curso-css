@@ -18,7 +18,7 @@ Este repositório marca a conclusão do curso de CSS da Origamid. Durante o curs
 
 ## Certificado
 
-![Certificado][(![image](https://github.com/Dev-RichardZamoner/curso-css/assets/130820445/c867096b-1480-4ff2-b049-31c6edc4a8c2)](https://github-production-user-asset-6210df.s3.amazonaws.com/130820445/271086709-c867096b-1480-4ff2-b049-31c6edc4a8c2.png)
+(![image](https://github.com/Dev-RichardZamoner/curso-css/assets/130820445/c867096b-1480-4ff2-b049-31c6edc4a8c2)](https://github-production-user-asset-6210df.s3.amazonaws.com/130820445/271086709-c867096b-1480-4ff2-b049-31c6edc4a8c2.png)
 
 Recebi meu certificado de conclusão do curso, que pode ser visto [aqui](https://www.origamid.com/certificate/3d274f73).
 

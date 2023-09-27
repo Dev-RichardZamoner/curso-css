@@ -18,8 +18,7 @@ Este repositório marca a conclusão do curso de CSS da Origamid. Durante o curs
 
 ## Certificado
 
-![Certificado](![image](https://github.com/Dev-RichardZamoner/curso-css/assets/130820445/c867096b-1480-4ff2-b049-31c6edc4a8c2)
-)
+![Certificado][(![image](https://github.com/Dev-RichardZamoner/curso-css/assets/130820445/c867096b-1480-4ff2-b049-31c6edc4a8c2)](https://github-production-user-asset-6210df.s3.amazonaws.com/130820445/271086709-c867096b-1480-4ff2-b049-31c6edc4a8c2.png)
 
 Recebi meu certificado de conclusão do curso, que pode ser visto [aqui](https://www.origamid.com/certificate/3d274f73).
 
@@ -29,6 +28,13 @@ Durante o curso, desenvolvi um unico projeto, ja explicativo trazendo o conhecim
 
 - ([Curso Free](https://curso-css-sand.vercel.app/))
 
+- ## Contato
+Se tiver alguma pergunta ou quiser discutir algo relacionado ao curso, sinta-se à vontade para entrar em contato comigo.
+
+Email: devpaulista@gmail.com
+LinkedIn: Richard Zamoner
+Obrigado por conferir meu repositório e por todo o conhecimento adquirido com a Origamid!
+
 
 ## Como Utilizar Este Repositório
 
@@ -37,9 +43,4 @@ Você pode clonar este repositório para sua máquina local e explorar os projet
 ```bash
 git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Dev-RichardZamoner/curso-css.git)
 
-## Contato
-Se tiver alguma pergunta ou quiser discutir algo relacionado ao curso, sinta-se à vontade para entrar em contato comigo.
 
-Email: devpaulista@gmail.com
-LinkedIn: Richard Zamoner
-Obrigado por conferir meu repositório e por todo o conhecimento adquirido com a Origamid!

@@ -31,8 +31,10 @@ Durante o curso, desenvolvi um unico projeto, ja explicativo trazendo o conhecim
 - ## Contato
 Se tiver alguma pergunta ou quiser discutir algo relacionado ao curso, sinta-se à vontade para entrar em contato comigo.
 
-Email: devpaulista@gmail.com
-LinkedIn: Richard Zamoner
+Email: devpaulista@gmail.com .
+
+LinkedIn: Richard Zamoner .
+
 Obrigado por conferir meu repositório e por todo o conhecimento adquirido com a Origamid!
 
 
